@@ -1,10 +1,1 @@
- HEAD
-aaa
-
-firsdaasdaasadasadads
- test
-<<<<<<< HEAD
- 092409840980480959089502
-=======
- dasdfasdfasdfasfasdfljflasjdlfj
->>>>>>> test
+head head
